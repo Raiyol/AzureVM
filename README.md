@@ -180,7 +180,7 @@ So back to Azure website, on our virtual machine, go to "Mise en réseau".
 
 ![homepageVM](./media/port.jpg)
 
-Click "Ajouter une règle", a pop up will show. Let everything to what's defalut in it except thse :
+Click "Ajouter une règle", a pop up will show. Let everything to what's default in it except these :
 
 - Plages de ports de destination : 55151 (the port we put on the code)
 - Protocole : UDP
