@@ -6,7 +6,7 @@
 
 First go to this url <https://azure.microsoft.com/fr-fr/free/students/>.
 
-If you don't have an account, create one by clicking on "Activer maintenant". Follow the step asks and create an account with you devinci mail.
+If you don't have an account, create one by clicking on "Activer maintenant". Follow the step asks and create an account with your devinci mail.
 
 After creating your account, log in to Azure. The default page should look like this :
 
