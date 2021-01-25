@@ -24,7 +24,7 @@ The page should look like this :
 
 As you can see I already have a machine launched. I will show you how to create, setup and connect to a new virtual machine.
 
-Too add a new virtual machine : "Ajouter" > "Machine virtuelle".
+To add a new virtual machine : "Ajouter" > "Machine virtuelle".
 
 You will get this :
 
